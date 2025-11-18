@@ -1,0 +1,11 @@
+body{margin:0;font-family:Arial;background:#00254d;color:#fff;text-align:center;}
+nav{display:flex;gap:20px;justify-content:center;padding:20px;background:#001e3a;font-size:18px;}
+nav a{color:white;text-decoration:none;}
+.hero{padding:40px;}
+.logo{width:250px;}
+.btn{display:inline-block;margin-top:20px;padding:10px 20px;background:#0a84ff;color:white;border-radius:6px;text-decoration:none;font-size:20px;}
+#services{padding:40px;}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:20px;max-width:900px;margin:0 auto;}
+.card{background:#004080;padding:20px;border-radius:10px;font-size:18px;}
+.icon{font-size:40px;margin-bottom:10px;}
+footer{margin-top:40px;padding:20px;background:#001e3a;}
